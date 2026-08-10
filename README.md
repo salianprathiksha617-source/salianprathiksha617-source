@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Prathiksha 👋<br><br>### Artificial Intelligence & Machine Learning Student | Computer Vision | NLP | Python<br><br>🎓 Final-year **AI & ML student at St. Joseph Engineering College** with a strong interest in building practical AI systems and solving real-world problems through technology.<br><br>I enjoy working at the intersection of **Machine Learning, Computer Vision, NLP, and software development**, and I'm currently strengthening my problem-solving and engineering skills through projects and DSA.<br><br>---<br><br>## 🧠 What I Work With<br><br>**Programming**<br><br>* Python<br>* SQL<br>* Java — Basics<br><br>**AI / ML**<br><br>* Machine Learning<br>* Computer Vision<br>* Natural Language Processing<br><br>**Tools & Technologies**<br><br>* OpenCV<br>* YOLO<br>* NumPy<br>* Pandas<br>* scikit-learn<br><br>---<br><br>## 🚀 Projects<br><br>### 🔍 CompliScan<br><br>**AI-assisted compliance verification for packaged products**<br><br>My final-year project focuses on automating the verification of mandatory product declarations from e-commerce product images.<br><br>The system combines **OCR, text preprocessing, NLP-based information extraction, fuzzy matching, and rule-based validation** to identify and verify regulatory information such as MRP, net quantity, manufacturer details, country of origin, manufacturing date, and customer-care information.<br><br>**Tech:** Python · NLP · OCR · Regex · RapidFuzz <br><br>---<br><br>### 🔬 Inspecto V1<br><br>**Computer Vision based inspection system**<br><br>A computer-vision project focused on automated inspection and identification of cracks from images.<br><br>**Tech:** Python · OpenCV · Computer Vision<br><br>---<br><br>### 📝 OMR Evaluation System<br><br>**Automated OMR sheet evaluation using image processing**<br><br>Developed an image-processing based approach for detecting and evaluating marked answers on OMR sheets.<br>**Tech:** Python · OpenCV · Image Processing<br><br>---<br><br>## 🏆 Leadership & Achievements<br><br>* 👥 **Core Team Member — DynamicSJEC**<br>* 🏅 **Team Leader — Manthan 2025**, state-level competition<br>* 🚀 **Team Leader — AICTE National Pitch Competition**<br><br>These experiences have helped me develop not only technical skills, but also **team coordination, presentation, problem-solving, and leadership**.<br><br>---<br><br>## 📚 Currently Learning<br><br>* Data Structures & Algorithms<br>* Machine Learning<br>* Computer Vision<br>* NLP<br>* Software development fundamentals<br>* Building better and more maintainable Python projects<br><br>---<br><br>## 🎯 What I'm Looking For<br><br>I'm interested in opportunities where I can work on:<br><br>* Artificial Intelligence & Machine Learning<br>* Computer Vision<br>* NLP<br>* Python-based software development<br>* Applied AI solutions<br><br>I'm particularly interested in projects where technology is used to solve **practical, real-world problems**.<br><br>---<br><br>## 📈 My Approach<br><br>> **Learn → Build → Debug → Improve**<br><br>I believe the best way to learn technology is to build with it, understand why things work, and continuously improve the solution.<br><br>---<br><br>## 🤝 Let's Connect<br><br>I'm always open to connecting with people working in **AI/ML, software development, computer vision, and emerging technologies**.<br><br>⭐ Thanks for visiting my profile!
 
-<!--
-**salianprathiksha617-source/salianprathiksha617-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prxthikshx_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathiksha Salian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salianprathiksha617@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=salianprathiksha617-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=salianprathiksha617-source&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=salianprathiksha617-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=salianprathiksha617-source&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
